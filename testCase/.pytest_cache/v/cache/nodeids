@@ -1,0 +1,8 @@
+[
+  "test_CreatOrder.py::test_01CreatOrder::test01_login",
+  "test_CreatOrder.py::test_01CreatOrder::test02_getClass",
+  "test_CreatOrder.py::test_01CreatOrder::test02_intoClass",
+  "test_CreatOrder.py::test_01CreatOrder::test03_subOrder",
+  "test_count.py::test_LoginByPhone::test_login",
+  "test_loginByPhone.py::test_LoginByPhone::test_login"
+]

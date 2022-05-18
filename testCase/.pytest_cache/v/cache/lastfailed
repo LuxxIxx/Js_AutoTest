@@ -1,0 +1,5 @@
+{
+  "test_CreatOrder.py::test_01CreatOrder": true,
+  "test_CreatOrder.py::test_01CreatOrder::test03_subOrder": true,
+  "test_count.py::test_LoginByPhone::test_login": true
+}
