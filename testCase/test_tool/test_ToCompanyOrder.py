@@ -11,7 +11,7 @@ class test_ToCompanyOrder(unittest.TestCase):
     # <editor-fold desc="¼Ð¾ß">
     @classmethod
     def setUpClass(cls):
-        book = xlrd.open_workbook(r'E:/data/creatorder.xlsx')
+        book = xlrd.open_workbook(r'E:/AutoTest/testdatasdata/creatorder.xlsx')
         date = book.sheet_by_index(0)
         dateList = date.row_values(1)
         cls.count = date.nrows
